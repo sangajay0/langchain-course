@@ -148,3 +148,9 @@ If you find this project helpful, please consider:
 
 </div>
 
+
+---
+
+## 🧪 Demo Notes
+- Tested locally with Python 3.13
+- Uses `uv` for dependency management
